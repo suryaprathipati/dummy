@@ -1,3 +1,3 @@
 write something
-this is first line of git
+this is first line of git changing in github
 this is second line of git in second commit
