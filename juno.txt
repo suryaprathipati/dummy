@@ -1,2 +1,3 @@
 write something
 this is first line of git
+this is second line of git in second commit
