@@ -1,0 +1,2 @@
+write something
+this is first line of git
